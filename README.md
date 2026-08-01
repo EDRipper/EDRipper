@@ -1,6 +1,6 @@
 **hi, i'm euan**
 
-i engineer events that inspire teens to learn coding @Hackclub. most of my work is building web apps, but i'm also responsible for the logistics of hackathons.
+i engineer events that inspire teens to learn coding [@Hackclub](https://github.com/hackclub). most of my work is building web apps, but i'm also responsible for the logistics of hackathons.
 
 you should check out [beest.hackclub.com](https://beest.hackclub.com)!
 
